@@ -1,6 +1,7 @@
 # iolb
 ![image](https://github.com/jsmin6330/iolb/assets/150888333/a312bf76-8d69-4e2f-85a4-3a16d3ad4568)
 
+</br>
 
 ## 요구사항
 - fly.io 에 blog A, blog B 배포
@@ -8,6 +9,7 @@
 - lb 를 통해 들어가면 fly.io blog A, B 가 순차 적으로 보임
 - A, B 중 하나를 업데이트 하는 동안 서비스는 중단 되지 않음
 
+</br>
 
 ## 로드 밸런서(LB) 설정
 ### Nginx 로드 밸런서 설정(default.conf)
