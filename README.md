@@ -64,6 +64,6 @@ primary_region = 'nrt'
 
 
 ## 정보
-블로그A: https://jsmin6330-hello-vue-github-io.fly.dev/
-블로그B: https://jsmin6330-github-io.fly.dev/
-LB: https://iolb.fly.dev/
+블로그A: https://jsmin6330-hello-vue-github-io.fly.dev/ </br>
+블로그B: https://jsmin6330-github-io.fly.dev/ </br>
+LB: https://iolb.fly.dev/ 
