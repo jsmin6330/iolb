@@ -13,7 +13,7 @@
 
 ## 로드 밸런서(LB) 설정
 ### Nginx 로드 밸런서 설정(default.conf)
-참조: https://fly.io/docs/networking/private-networking/#fly-io-internal-addresses
+참조: https://fly.io/docs/networking/private-networking/#fly-io-internal-addresses </br>
 Fly.io는 내부적으로 애플리케이션 간 통신을 위해 내부 DNS를 사용합니다. 이를 통해 애플리케이션은 서로를 찾고 통신할 수 있습니다. 
 각 애플리케이션은 .internal 도메인을 통해 액세스할 수 있으며, 이는 Fly.io 내부에서만 해석됩니다.
 ```
